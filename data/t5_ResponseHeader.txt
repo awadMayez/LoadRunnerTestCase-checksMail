@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Fri, 10 Mar 2017 10:06:40 GMT
+Content-Type: text/html; charset=utf-8
+X-Requestid: 2136721933.19614.1489140400101.62963
+Content-Security-Policy: connect-src 'self' yastatic.net home.yastatic.net yandex.ru *.yandex.ru *.yandex.net yandex.st;default-src 'none';font-src yastatic.net;img-src data: yastatic.net api-maps.yandex.ru *.yandex.net mc.yandex.ru yandex.ru passport.yandex.ru;script-src 'unsafe-inline' 'unsafe-eval' yastatic.net mc.yandex.ru suggest-maps.yandex.ru api-maps.yandex.ru social.yandex.ru yandex.ru 'nonce-y6pVTTT/2Lock4V4uqsqvg==';style-src 'unsafe-inline' yastatic.net;frame-src 'self' mc.yandex.ru pass.yandex.ru passport.yandex.ru yandex.ru;report-uri https://csp.yandex.net/csp?from=tune2&showid=2136721933.19614.1489140400101.62963&yandexuid=6916306631488205099&login=ufo.xco2017
+X-Frame-Options: DENY
+Access-Control-Allow-Credentials: true
+Content-Encoding: gzip
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Transfer-Encoding: chunked
+

@@ -1,0 +1,13 @@
+[t457]
+FileName1=t457_iecompatviewlist.xml
+URL1=https://iecvlist.microsoft.com/IE11/1426178821/iecompatviewlist.xml
+Total=2
+ContentType=text/xml
+SnapshotXmlFile=snapshot_457.xml
+RequestHeaderFile=t457_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t457_ResponseHeader.txt
+FileName2=t457_784657.gif
+URL2=https://mc.yandex.ru/clmap/784657?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fpassport%3Fmode%3Dauth%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252Flite%252Finbox&pointer-click=rn%3A555193619%3Ax%3A40083%3Ay%3A37118%3At%3A325%3Ap%3APAFA1AA2AA&browser-info=rqnl%3A1%3Ast%3A1489150824%3Au%3A1488658405454999924
+[ProtocolInfo]
+ProtocolId=QTWeb

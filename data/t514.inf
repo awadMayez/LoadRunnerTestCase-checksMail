@@ -1,0 +1,11 @@
+[t514]
+FileName1=t514.gif
+URL1=https://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id1164541800511
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_514.xml
+RequestHeaderFile=t514_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t514_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

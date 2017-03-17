@@ -1,0 +1,10 @@
+GET /metrika/watch.js?_=1489141727392 HTTP/1.1
+Accept: application/javascript, */*;q=0.8
+Referer: https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox
+Accept-Language: ru-RU
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: mc.yandex.ru
+Connection: Keep-Alive
+Cookie: yandexuid=1323753751488658402; i=9watCZ0XndZ9hI+MrL2gQmQkLUJywAC+B5aUe+iWdudktzdxuU4qK7ZNkxGsKlZxvKPmmudu+V+Ei9RoDPcxI3SXk0w=; yp=1489263205.szm.1_25:1536x864:1536x745; _ym_uid=1488658405454999924; _ym_isad=2; fuid01=58bb1fe43f1985ca.mchv1kTx9TEts0-0Gp_WmXaQDv9YzfRxHMjAhTjj3FWSUQEJC61ZkwpNsdz8bUlcpKF_3mbcsWNVPeDp-t2gp4jJPGbGmhsyD7VuFZi-GicCHCUYXGlhUGmo6Ch_ljdX; _ym_visorc_784657=b; yabs-sid=1970435711489140705
+

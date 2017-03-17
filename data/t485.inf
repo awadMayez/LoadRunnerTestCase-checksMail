@@ -1,0 +1,11 @@
+[t485]
+FileName1=t485_92550.html
+URL1=https://an.yandex.ru/page/92550?target-ref=https%3A%2F%2Fmail.yandex.ru%2Flite%2Fsent&page-ref=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox%3Fids%3D%26executed_action%3Dmessage_send&charset=utf-8&imp-id=14&enable-flat-highlight=1&stat-id=14&uid=474076123&grab=dNCe0YLQv9GA0LDQstC70LXQvdC90YvQtSAo0L3QtdGCINC90L7QstGL0YUg0L_QuNGB0LXQvCkg4oCUINCv0L3QtNC10LrRgS7Qn9C-0YfRgtCwCg==&callback=Ya[1489151078571]
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_485.xml
+RequestHeaderFile=t485_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t485_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

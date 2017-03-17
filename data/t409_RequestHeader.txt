@@ -1,0 +1,11 @@
+GET /mail/_/b414bafc4d2f9189a2b59f810a62c994.css HTTP/1.1
+Accept: */*
+Referer: https://mail.yandex.ru/
+Accept-Language: ru-RU
+Origin: https://mail.yandex.ru
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: yastatic.net
+Connection: Keep-Alive
+Cache-Control: no-cache
+

@@ -1,0 +1,11 @@
+[t326]
+FileName1=t326.gif
+URL1=https://clck.yandex.ru/click/dtype=stred/pid=2/cid=71105/path=msg.click.cancel/rnd=1489150341515/*https://mail.yandex.ru/?ncrnd=1213&uid=474076123&login=ufo-xco2017
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_326.xml
+RequestHeaderFile=t326_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t326_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

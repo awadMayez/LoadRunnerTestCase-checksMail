@@ -1,0 +1,13 @@
+[t181]
+FileName1=t181.gif
+URL1=https://mc.yandex.ru/watch/784657?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fpassport%3Fmode%3Dauth%26from%3Dmail%26origin%3Dhostroot_ru_l_mobile_enter%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru&ut=noindex&browser-info=j%3A1%3As%3A1536x864x24%3Ask%3A1.25%3Aadb%3A2%3Af%3A24.0.0.221%3Afpr%3A331856404701%3Acn%3A1%3Az%3A180%3Ai%3A20170310153704%3Aet%3A1489149425%3Aen%3Autf-8%3Av%3A785%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Aar%3A1%3Apa%3A1%3Als%3A155092419075%3Arqn%3A23%3Arn%3A458548755%3Ahid%3A596230488%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Arqnl%3A1%3Ast%3A1489149425%3Au%3A1488658405454999924
+Total=1
+RequestHeaderFile=t181_RequestHeader.txt
+RequestBodyFile=t181_RequestBody.txt
+ResponseHeaderFile=t181_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_181.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t145]
+FileName1=t145_b-stamp_flat.png
+URL1=https://yastatic.net/mail/host-root2/4.0.0/static/blocks/b-stamp/b-stamp_flat.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_145.xml
+RequestHeaderFile=t145_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t145_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

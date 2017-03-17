@@ -1,0 +1,11 @@
+[t267]
+FileName1=t267_models.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_model.0=abook-suggest&_uid=474076123&_ckey=zT50ZT4Ncb91X3pAOSrSrhI%2BZ3heuERa&_connection_id=u2709-1489149426954-81932979&_locale=ru&_product=RUS&_timestamp=1489149578779&_exp=36377%2C0%2C91%3B40287%2C0%2C46%3B38717%2C0%2C84%3B34595%2C0%2C54%3B31190%2C0%2C58%3B32334%2C0%2C88&_eexp=36377%2C0%2C91%3B40287%2C0%2C46%3B38717%2C0%2C84%3B34595%2C0%2C54%3B31190%2C0%2C58&_messages_per_page=30&climit.0=5&glimit.0=5&useAbook.0=on&popular.0=true&q.0=&_=1489149429032
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_267.xml
+RequestHeaderFile=t267_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t267_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

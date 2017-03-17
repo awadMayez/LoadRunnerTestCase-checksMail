@@ -1,0 +1,11 @@
+[t376]
+FileName1=t376_cc99f387b317b1a8078e164f2817462d.html
+URL1=https://yastatic.net/mail/_/cc99f387b317b1a8078e164f2817462d.yate
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_376.xml
+RequestHeaderFile=t376_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t376_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

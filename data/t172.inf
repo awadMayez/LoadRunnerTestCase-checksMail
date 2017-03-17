@@ -1,0 +1,15 @@
+[t172]
+FileName1=t172.gif
+URL1=https://mc.yandex.ru/webvisor/784657?rn=541676534&page-url=https%3A%2F%2Fpassport.yandex.ru%2Fpassport%3Fmode%3Dauth%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252Flite%252Finbox&wmode=0&wv-type=0&wv-hit=423266587&wv-part=1&wv-check=36427&browser-info=v%3A785%3Az%3A180%3Ai%3A20170310131146%3Arqnl%3A1%3Ast%3A1489149415%3Au%3A1488658405454999924
+Total=2
+RequestHeaderFile=t172_RequestHeader.txt
+RequestBodyFile=t172_RequestBody.txt
+ResponseHeaderFile=t172_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_172.xml
+FileName2=t172_784657.html
+URL2=https://mc.yandex.ru/watch/784657?wmode=5&callback=_ymjsp1003179171&page-ref=https%3A%2F%2Fmail.yandex.ru%2F&page-url=https%3A%2F%2Fpassport.yandex.ru%2Fpassport%3Fmode%3Dauth%26from%3Dmail%26origin%3Dhostroot_ru_l_mobile_enter%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru&ut=noindex&browser-info=j%3A1%3As%3A1536x864x24%3Ask%3A1.25%3Aadb%3A2%3Af%3A24.0.0.221%3Afpr%3A331856404701%3Acn%3A1%3Aw%3A1536x745%3Az%3A180%3Ai%3A20170310153654%3Aet%3A1489149415%3Aen%3Autf-8%3Av%3A785%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Apv%3A1%3Als%3A155092419075%3Arqn%3A19%3Arn%3A828284798%3Ahid%3A596230488%3Ads%3A0%2C1189%2C1018%2C4%2C31%2C0%2C%2C2227%2C16%2C5921%2C5921%2C0%2C5881%3Afp%3A4733%3Awn%3A26790%3Ahl%3A2%3Arqnl%3A1%3Ast%3A1489149415%3Au%3A1488658405454999924%3At%3A%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F
+[ProtocolInfo]
+ProtocolId=QTWeb

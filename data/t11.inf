@@ -1,0 +1,15 @@
+[t11]
+FileName1=t11.htm
+URL1=https://www.bing.com/AS/API/IEOneBox/V2/Init?setlang=ru
+Total=3
+RequestHeaderFile=t11_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t11_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_11.xml
+FileName2=t11_a681d84f.html
+URL2=https://www.bing.com/rms/Framework/cj,nj/e629777a/a681d84f.js?bu=rms+answers+BoxModel+config.instant%2ccore%2ccore%24viewport%2ccore%24layout%2ccore%24metrics%2cmodules%24mutation%2cmodules%24error%2cmodules%24network%2cmodules%24cursor%2cmodules%24keyboard%2cmodules%24bot
+FileName3=t11_IEOneBox_V2.html
+URL3=https://www.bing.com/manifest/IEOneBox_V2.appcache?setlang=ru
+[ProtocolInfo]
+ProtocolId=QTWeb

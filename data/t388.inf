@@ -1,0 +1,11 @@
+[t388]
+FileName1=t388_b27dcb0815160c6be844843dd01ddf5a.html
+URL1=https://yastatic.net/mail/_/b27dcb0815160c6be844843dd01ddf5a.yate
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_388.xml
+RequestHeaderFile=t388_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t388_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t146]
+FileName1=t146_google-play_ru.png
+URL1=https://yastatic.net/mail/host-root2/4.0.0/static/promos/mobile/stores/google-play_ru.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_146.xml
+RequestHeaderFile=t146_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t146_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

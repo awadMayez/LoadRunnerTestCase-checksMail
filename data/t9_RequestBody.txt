@@ -1,0 +1,6 @@
+"<ClientInstRequest><CID>077DE850A4816C0A1350E211A5E76D41</CID><Events><E><T>Event.CPT</T><IG>D"
+"74EFD6244B24678A4FDD28FF74B9771</IG><D><![CDATA[{\"CurUrl\":\"https://www.bing.com/AS/API/IEOn"
+"eBox/V2/Init\",\"pp\":{\"S\":\"L\",\"FC\":1067,\"BC\":1067,\"H\":1562,\"BP\":1567,\"CT\":1569,"
+"\"IL\":0},\"w3c\":\"1ffdf0,,,,,,962,1d6,,62b,,3,,,1,-302,-329\",\"nav\":0,\"TS\":1489140473051"
+",\"RTS\":1570,\"SEQ\":0,\"UTS\":1489140473054}]]></D><TS>1489140473051</TS></E></Events></Clie"
+"ntInstRequest>"

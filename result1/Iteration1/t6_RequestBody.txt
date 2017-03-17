@@ -1,0 +1,7 @@
+"ttype=plain&oper=reply&mark_as=replied&mark_ids=161566636631916644&inreplyto=%26lt%3B398173148"
+"9238066@web38g.yandex.ru%26gt%3B&references=%26lt%3B3981731489238066@web38g.yandex.ru%26gt%3B&"
+"overwrite=&from_mailbox=ufo.xco2017@yandex.ru&from_name=xcom+ufo&to=%22%D0%98%D0%B2%D0%B0%D0%B"
+"D+%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%22+%3Cvaniatestov@yandex.ru%3E&cc=&subj=test&_handlers="
+"do-send&compose_check=6e3ae5c2371db85f50d762c8b7406733&_ckey=OR0se0GEQSEK64RKT0lFaljTJ2ZETy7i&"
+"style=lite&retpath=inbox&send=reply+for+test+1&doit=%D0%9E%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8"
+"%D1%82%D1%8C"

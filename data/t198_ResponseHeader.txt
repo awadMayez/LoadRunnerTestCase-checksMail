@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 10 Mar 2017 12:37:35 GMT
+Content-Type: text/html
+Content-Length: 119
+Connection: keep-alive
+Cache-Control: no-cache, no-store, must-revalidate, max-age=5
+P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+Access-Control-Allow-Credentials: true
+Accept-Ranges: bytes
+

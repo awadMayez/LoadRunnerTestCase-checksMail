@@ -1,0 +1,13 @@
+[t124]
+FileName1=t124.gif
+URL1=https://mc.yandex.ru/watch/40081755?page-url=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D3335%26uid%3D474076123%26login%3Dufo-xco2017%23inbox&ut=noindex&browser-info=j%3A1%3As%3A1536x864x24%3Ask%3A1.25%3Aadb%3A2%3Af%3A24.0.0.221%3Afpr%3A331856404701%3Acn%3A1%3Az%3A180%3Ai%3A20170310133552%3Aet%3A1489142152%3Aen%3Autf-8%3Av%3A783%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Aar%3A1%3Apa%3A1%3Als%3A1153974744958%3Arqn%3A31%3Arn%3A269094521%3Ahid%3A254931533%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Arqnl%3A1%3Ast%3A1489142152%3Au%3A1488658405454999924
+Total=1
+RequestHeaderFile=t124_RequestHeader.txt
+RequestBodyFile=t124_RequestBody.txt
+ResponseHeaderFile=t124_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_124.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t415]
+FileName1=t415.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=user-dropdown-data
+Total=1
+RequestHeaderFile=t415_RequestHeader.txt
+RequestBodyFile=t415_RequestBody.txt
+ResponseHeaderFile=t415_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_415.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

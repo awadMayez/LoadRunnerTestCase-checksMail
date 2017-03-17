@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx/1.9.4
+Date: Fri, 10 Mar 2017 12:39:04 GMT
+Content-Type: image/png
+Content-Length: 2539
+Last-Modified: Mon, 07 Jul 2014 06:57:39 GMT
+Connection: keep-alive
+ETag: "53ba44e3-9eb"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+Strict-Transport-Security: max-age=43200000; includeSubDomains;
+Cache-Control: public
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+Accept-Ranges: bytes
+

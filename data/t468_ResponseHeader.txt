@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 10 Mar 2017 13:02:33 GMT
+Content-Type: image/x-icon
+Content-Length: 1150
+Last-Modified: Fri, 03 Mar 2017 09:38:04 GMT
+Connection: keep-alive
+ETag: "58b9397c-47e"
+Expires: Sat, 11 Mar 2017 13:02:33 GMT
+Cache-Control: max-age=86400
+X-Frame-Options: SAMEORIGIN
+Accept-Ranges: bytes
+

@@ -1,0 +1,11 @@
+[t496]
+FileName1=t496.gif
+URL1=https://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id1164523343395
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_496.xml
+RequestHeaderFile=t496_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t496_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

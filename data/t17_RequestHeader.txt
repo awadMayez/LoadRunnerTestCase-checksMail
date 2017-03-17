@@ -1,0 +1,9 @@
+GET /IE11/1426178821/iecompatviewlist.xml?cvlp=4051272316213272642 HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Host: iecvlist.microsoft.com
+Connection: Keep-Alive
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Cookie: display-culture=en-US; SRCHD=AF=NOFORM; SRCHUSR=DOB=20170304
+

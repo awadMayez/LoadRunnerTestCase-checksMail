@@ -1,0 +1,12 @@
+POST /lite/compose-action.xml HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: https://mail.yandex.ru/lite/message/Иван Тестов/new
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU
+Accept: */*
+Connection: Keep-Alive
+Host: mail.yandex.ru
+Cookie: _skin=lite; yandexuid=505985041489248467; Session_id=3:1489248468.5.0.1489248468021:ofRbww:7a.0|474076123.0.2|160112.818872.PZVNZbRWcmD-5NH7Da6fXCg1Vy0; sessionid2=3:1489248468.5.0.1489248468021:ofRbww:7a.1|474076123.0.2|160112.773835.viyLnu_HNjy3GeBO_DCpps6ONeA; yp=1804608468.udn.cDp1Zm8ueGNvMjAxNw%3D%3D; ys=udn.cDp1Zm8ueGNvMjAxNw%3D%3D; L=aXtgSQ1dd0kFemlwdkVdWWd3X2JmZgdZQDcJdxwOA3wJYQ4=.1489248468.13003.386379.b41d8f089803bdb7503dce65cd39a531; yandex_login=ufo.xco2017
+Content-Length: 576
+

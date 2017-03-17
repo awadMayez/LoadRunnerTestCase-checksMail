@@ -1,0 +1,11 @@
+[t226]
+FileName1=t226_UX.png
+URL1=https://yastatic.net/mail/monograms/monograms/v2//double/UX.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_226.xml
+RequestHeaderFile=t226_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t226_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

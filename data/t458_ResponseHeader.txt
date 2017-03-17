@@ -1,0 +1,16 @@
+HTTP/1.1 200 Ok
+Date: Fri, 10 Mar 2017 13:01:21 GMT
+Content-Type: text/html; charset=UTF-8
+Cache-Control: no-cache,no-store,max-age=0,must-revalidate
+Expires: Fri, 10 Mar 2017 13:01:21 GMT
+Last-Modified: Fri, 10 Mar 2017 13:01:21 GMT
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Set-Cookie: yp=1489263205.szm.1_25:1536x864:1536x745#1491741156.ygu.1#1489410081.clh.2101081#1804509247.multib.1#1496925253.ww.1; Expires=Mon, 08-Mar-2027 13:01:21 GMT; Domain=.yandex.ru; Path=/
+Set-Cookie: ys=mclid.2101081; Domain=.yandex.ru; Path=/
+Set-Cookie: _ym_visorc_784657=; Expires=Tue, 13-Mar-2007 13:01:21 GMT; Domain=.yandex.ru; Path=/
+X-Content-Security-Policy: connect-src 'self' wss://webasr.yandex.net wss://push.yandex.ru wss://portal-xiva.yandex.net https://yastatic.net https://home.yastatic.net https://yandex.ru https://*.yandex.ru portal-xiva.yandex.net yastatic.net home.yastatic.net yandex.ru *.yandex.ru *.yandex.net yandex.st; default-src 'self' blob: wss://portal-xiva.yandex.net portal-xiva.yandex.net; font-src 'self' https://yastatic.net yastatic.net; frame-src 'self' yabrowser: https://www.youtube.com https://yastatic.net https://yandex.ru https://*.yandex.ru wfarm.yandex.net yastatic.net yandex.ru *.yandex.ru awaps.yandex.net *.cdn.yandex.net; img-src 'self' data: https://yastatic.net https://home.yastatic.net https://*.yandex.ru https://*.yandex.net https://*.tns-counter.ru ad.adriver.ru awaps.yandex.net *.yastatic.net yastatic.net home.yastatic.net yandex.ru *.yandex.ru *.yandex.net *.tns-counter.ru *.gemius.pl yandex.st; media-src 'self' blob: data: *.storage.yandex.net yastatic.net kiks.yandex.ru strm.yandex.ru; object-src 'self' *.yandex.net music.yandex.ru yastatic.net kiks.yandex.ru awaps.yandex.net storage.mds.yandex.net; report-uri https://csp.yandex.net/csp?from=big.ru&showid=1489150880.91081.22884.5971&h=s51&yandexuid=1323753751488658402; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://suburban-widget.rasp.yandex.ru https://suburban-widget.rasp.yandex.net https://music.yandex.ru https://yastatic.net https://home.yastatic.net https://mc.yandex.ru https://pass.yandex.ru an.yandex.ru api-maps.yandex.ru yastatic.net home.yastatic.net yandex.ru www.yandex.ru mc.yandex.ru suggest.yandex.ru clck.yandex.ru awaps.yandex.net; style-src 'self' 'unsafe-inline' https://yastatic.net https://home.yastatic.net yastatic.net home.yastatic.net;
+Content-Encoding: gzip
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Transfer-Encoding: chunked
+

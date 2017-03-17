@@ -1,0 +1,11 @@
+[t478]
+FileName1=t478.htm
+URL1=https://mail.yandex.ru/lite/inbox?ids=&executed_action=message_send
+Total=1
+RequestHeaderFile=t478_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t478_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_478.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

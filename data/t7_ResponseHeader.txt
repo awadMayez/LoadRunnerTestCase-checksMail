@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Cache-Control: private, no-transform, max-age=0
+Content-Length: 23209
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: User-Agent
+Server: Microsoft-IIS/10.0
+Set-Cookie: ANON=A=63F1EA80FFCFB207DAEBF7D1FFFFFFFF; domain=.msn.com; path=/; HttpOnly,MSNRPSAuth=FABaARSGI15flvTUXsl0s89Y8hFgLqV6bwNmAAAEgAAACAMaz6HM/BFLGAEhbtDEeSsS6GDI4z37yxRhbopjg5yo55ZtPFvtCCajrhB3rqWt5Rb4aefRtCSbz+2XCf1weAZrZ0M9Rb9iv25kQAzWkFkk+OVGvyqWc7jEK7qJylKZlem/ipP74i5sL7aH3m3IwhhDGrxc4+zgUfzsxVPs2Z7pKzHzQiJrkX01GfCsbpwr58LMEgDb75fWQy0hsnUnbYJDSU27NxUaDNEdCsJcmQ48TGJSidYvvoiSyZVrj/CQulM44y2XOAcYqJuMCL8bKXLMJBXncxarFMPQIFOze/eMs66xV2Yqq+wJSNyu5n21HJwASOOTydpOuMCd27F9celoJmc70wMFnu9dsrJxPCpzJOureu5+HZb3VrYm/5t7NMAVFABwhdr6bM+i0dn/EPAicwrlfnYgQw==; domain=.msn.com; path=/; HttpOnly,sptmarket=ru|ru|RU|ru-ru|ru-ru|ru; expires=Sun, 10-Mar-2019 10:07:42 GMT; path=/,nf=1; domain=www.msn.com; expires=Sun, 10-Mar-2019 10:07:42 GMT; path=/; HttpOnly,_EDGE_S=F=1; path=/; httponly; domain=msn.com,_EDGE_V=1; path=/; httponly; expires=Sun, 10-Mar-2019 10:07:42 GMT; domain=msn.com,MUID=3B6D422C3BDE61D80B39486D3AAA6075; path=/; expires=Sun, 10-Mar-2019 10:07:42 GMT; domain=msn.com
+Access-Control-Allow-Origin: *
+X-AspNetMvc-Version: 5.2
+X-AppVersion: 2.0.6276.33913
+X-Activity-Id: e22a148f-75fd-47c6-9767-50e3e8bea3b6
+X-Az: {did:fd2a555d57f84fe0a7c7d0d527389d42, rid: 57, sn: neurope-prod-spartan, dt: 2017-02-03T00:09:21.7748860Z, bt: 2017-03-08T18:50:44.2791337Z}
+X-UA-Compatible: IE=Edge;chrome=1
+X-Content-Type-Options: nosniff
+X-FRAME-OPTIONS: SAMEORIGIN
+X-Robots-Tag: noindex
+Content-Security-Policy: connect-src 'self' otf.msn.com c.go-mpulse.net/api/config.json ratingsedgefd.dsx.mp.microsoft.com www.bing.com/as/ graph.microsoft.com/v1.0/me/ mem.gfx.ms rpt.rad.msn.com rpt.msn.com arc.msn.com g.msn.com g.bing.com www.bing.com/profile/history/data prod.oneservice.msn.com;default-src 'none';media-src prod.video.msn.com prod-video-cms-amp-microsoft-com.akamaized.net;font-src 'self' *.akamaized.net static-spartan-nc.s-msn.com;frame-src 'self' h6.msn.com/library/8.5/dapmsn_sf.html *.mpstat.us login.microsoftonline.com login.live.com;img-src * data:;script-src 'self' 'unsafe-inline' platform.bing.com/geo/AutoSuggest/v1 api.bing.com/qsonhs.aspx  www.bing.com/as/ hotmailproxy.msn.com mem.gfx.ms finance.services.appex.bing.com/Market.svc/MTAutocomplete  prod.oneservice.msn.com/Common/AutoSuggest *.akamaized.net static-spartan-nc.s-msn.com;style-src 'self' 'unsafe-inline' *.akamaized.net static-spartan-nc.s-msn.com;
+X-Powered-By: ASP.NET
+Access-Control-Allow-Methods: HEAD,GET,OPTIONS
+X-XSS-Protection: 1
+X-MSEdge-Ref: Ref A: E22A148F75FD47C6976750E3E8BEA3B6 Ref B: AM1EDGE0607 Ref C: Fri Mar 10 02:07:42 2017 PST
+Date: Fri, 10 Mar 2017 10:07:42 GMT
+Connection: close
+

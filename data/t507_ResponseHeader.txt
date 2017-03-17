@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Fri, 10 Mar 2017 13:04:40 GMT
+Content-Type: application/javascript
+Content-Length: 63
+Connection: keep-alive
+P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+Last-Modified: Fri, 10 Mar 2017 13:04:40 GMT
+Expires: Fri, 10 Mar 2017 13:04:40 GMT
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+

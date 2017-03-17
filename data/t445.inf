@@ -1,0 +1,11 @@
+[t445]
+FileName1=t445.txt
+URL1=https://mail.yandex.ru/u2709/api/action-log.jsx
+Total=1
+RequestHeaderFile=t445_RequestHeader.txt
+RequestBodyFile=t445_RequestBody.txt
+ResponseHeaderFile=t445_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_445.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

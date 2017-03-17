@@ -1,0 +1,10 @@
+GET /clmap/16082914?page-url=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox&pointer-click=rn%3A603571463%3Ax%3A34932%3Ay%3A20479%3At%3A48%3Ap%3AN%3BW1AAFA1A1A&browser-info=rqnl%3A1%3Ast%3A1489151087%3Au%3A1488658405454999924 HTTP/1.1
+Accept: image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5
+Referer: https://mail.yandex.ru/lite/inbox
+Accept-Language: ru-RU
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: mc.yandex.ru
+Connection: Keep-Alive
+Cookie: yandexuid=1323753751488658402; i=9watCZ0XndZ9hI+MrL2gQmQkLUJywAC+B5aUe+iWdudktzdxuU4qK7ZNkxGsKlZxvKPmmudu+V+Ei9RoDPcxI3SXk0w=; yp=1489263205.szm.1_25%3A1536x864%3A1536x745#1491741156.ygu.1#1489410081.clh.2101081#1804509247.multib.1#1496925253.ww.1#1804510920.udn.cDp1Zm8ueGNvMjAxNw%3D%3D; _ym_uid=1488658405454999924; _ym_isad=2; fuid01=58bb1fe43f1985ca.mchv1kTx9TEts0-0Gp_WmXaQDv9YzfRxHMjAhTjj3FWSUQEJC61ZkwpNsdz8bUlcpKF_3mbcsWNVPeDp-t2gp4jJPGbGmhsyD7VuFZi-GicCHCUYXGlhUGmo6Ch_ljdX; L=CV5nAFpcYURzVWsGZFJsXFcAZwRgcAJLQjccfio1BAN4eXs=.1489150920.13001.325338.37910d0b4c3f92cc4ef39824da4791d7; yandex_gid=213; ys=mclid.2101081#udn.cDp1Zm8ueGNvMjAxNw%3D%3D; Session_id=3:1489150920.5.0.1489150920800:ofRbww:4d.0|474076123.0.2|160058.733498.R4HpU8LHr99BSODh29hfGf7mYCs; sessionid2=3:1489150920.5.0.1489150920800:ofRbww:4d.1|474076123.0.2|160058.77145.rNyhpl_EwN7fSjGjrOxUnBbT6gE; yandex_login=ufo.xco2017; yabs-sid=1914243181489150792
+

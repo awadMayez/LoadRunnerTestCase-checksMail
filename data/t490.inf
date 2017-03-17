@@ -1,0 +1,13 @@
+[t490]
+FileName1=t490.gif
+URL1=https://mc.yandex.ru/watch/92550?cnt-class=1&page-ref=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox%3Fids%3D%26executed_action%3Dmessage_send&page-url=https%3A%2F%2Fmail.yandex.ru%2Flite%2Fsent&ut=noindex&browser-info=j%3A1%3As%3A1536x864x24%3Ask%3A1.25%3Af%3A24.0.0.221%3Afpr%3A331856404701%3Acn%3A1%3Aw%3A1536x745%3Az%3A180%3Ai%3A20170310160437%3Aet%3A1489151077%3Aen%3Autf-8%3Av%3A785%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Apv%3A1%3Als%3A415075616486%3Arqn%3A9%3Arn%3A811099157%3Ahid%3A39043508%3Ads%3A0%2C0%2C2%2C4%2C25%2C0%2C%2C%2C%2C%2C%2C%2C%3Arqnl%3A2%3Ast%3A1489151077%3Au%3A1488658405454999924%3At%3A%D0%9E%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20(%D0%BD%D0%B5%D1%82%20%D0%BD%D0%BE%D0%B2%D1%8B%D1%85%20%D0%BF%D0%B8%D1%81%D0%B5%D0%BC)%20%E2%80%94%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D0%BE%D1%87%D1%82%D0%B0
+Total=1
+RequestHeaderFile=t490_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t490_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_490.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

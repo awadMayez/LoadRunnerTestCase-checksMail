@@ -1,0 +1,15 @@
+[t481]
+FileName1=t481.gif
+URL1=https://mc.yandex.ru/watch/16082914?page-url=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox%3Fids%3D%26executed_action%3Dmessage_send&ut=noindex&browser-info=j%3A1%3As%3A1536x864x24%3Ask%3A1.25%3Aadb%3A2%3Af%3A24.0.0.221%3Afpr%3A331856404701%3Acn%3A2%3Az%3A180%3Ai%3A20170310160431%3Aet%3A1489151072%3Aen%3Autf-8%3Av%3A785%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Apa%3A1%3Als%3A304057826452%3Arqn%3A20%3Arn%3A942955836%3Ahid%3A136907421%3Ads%3A%2C%2C%2C%2C%2C%2C%2C320%2C8%2C8520%2C8520%2C7%2C7141%3Afp%3A7153%3Arqnl%3A1%3Ast%3A1489151072%3Au%3A1488658405454999924
+Total=2
+RequestHeaderFile=t481_RequestHeader.txt
+RequestBodyFile=t481_RequestBody.txt
+ResponseHeaderFile=t481_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_481.xml
+FileName2=t481_TnJIm_ik7sm40000Zhj5Aem5XPQO5fuEaRUm-u8FauKDfD00000z2G6kuxA14VVhAlcxyhud-L-mxYK1mV__________3-u1xm7Rylw0R6UmxYK1wWxrtoj09JMo0VRHhga60APKUWi0=1E5QDfK2cm5kGxS2YR1iEVW3c8mdYhDXprq5lRyiK0q5fQrL7GY8lRoAe0EyhpBH1wOvdQzWGmNT0TwG9FJvuxA14VVhAlcPDA2Kcewpb44ahvF0PhIO7nhPa0kGsf2V9AU5NwYrnWDp1q6am00003q9iG6oi5800a2vhs131SMF3ysoOSzT1Swm22WP1zB__________m_J__________yFmW3VXGtk0UMGyYljWoXy5G00.gif
+URL2=https://an.yandex.ru/count/TnJIm_ik7sm40000Zhj5Aem5XPQO5fuEaRUm-u8FauKDfD00000z2G6kuxA14VVhAlcxyhud-L-mxYK1mV__________3-u1xm7Rylw0R6UmxYK1wWxrtoj09JMo0VRHhga60APKUWi0=1E5QDfK2cm5kGxS2YR1iEVW3c8mdYhDXprq5lRyiK0q5fQrL7GY8lRoAe0EyhpBH1wOvdQzWGmNT0TwG9FJvuxA14VVhAlcPDA2Kcewpb44ahvF0PhIO7nhPa0kGsf2V9AU5NwYrnWDp1q6am00003q9iG6oi5800a2vhs131SMF3ysoOSzT1Swm22WP1zB__________m_J__________yFmW3VXGtk0UMGyYljWoXy5G00?test-tag=265532376886273&stat-id=14&wmode=0
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,15 @@
+[t182]
+FileName1=t182.gif
+URL1=https://mc.yandex.ru/webvisor/784657?rn=91850524&page-url=https%3A%2F%2Fpassport.yandex.ru%2Fpassport%3Fmode%3Dauth%26from%3Dmail%26origin%3Dhostroot_ru_l_mobile_enter%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru&wmode=0&wv-type=0&wv-hit=596230488&wv-part=4&wv-check=3341&browser-info=v%3A785%3Az%3A180%3Ai%3A20170310153654%3Arqnl%3A1%3Ast%3A1489149425%3Au%3A1488658405454999924
+Total=2
+RequestHeaderFile=t182_RequestHeader.txt
+RequestBodyFile=t182_RequestBody.txt
+ResponseHeaderFile=t182_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_182.xml
+FileName2=t182_favicon_islands.ico
+URL2=https://yastatic.net/morda-logo/i/favicon_islands.ico
+[ProtocolInfo]
+ProtocolId=QTWeb

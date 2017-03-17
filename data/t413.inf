@@ -1,0 +1,11 @@
+[t413]
+FileName1=t413.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=userphones
+Total=1
+RequestHeaderFile=t413_RequestHeader.txt
+RequestBodyFile=t413_RequestBody.txt
+ResponseHeaderFile=t413_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_413.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t287]
+FileName1=t287_e9be696497f9b8125eb99de3d8a39d0b.html
+URL1=https://yastatic.net/mail/_/e9be696497f9b8125eb99de3d8a39d0b.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_287.xml
+RequestHeaderFile=t287_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t287_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

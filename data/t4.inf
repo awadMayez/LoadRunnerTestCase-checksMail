@@ -1,0 +1,17 @@
+[t4]
+FileName1=t4.txt
+URL1=https://accounts.google.com/OAuthLogin
+Total=4
+RequestHeaderFile=t4_RequestHeader.txt
+RequestBodyFile=t4_RequestBody.txt
+ResponseHeaderFile=t4_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_4.xml
+FileName2=t4_client_model_v5_variation_0.html
+URL2=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_variation_0.pb
+FileName3=t4_client_model_v5_ext_variation_0.html
+URL3=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_ext_variation_0.pb
+FileName4=t4_userinfo.html
+URL4=https://www.googleapis.com/oauth2/v1/userinfo
+[ProtocolInfo]
+ProtocolId=QTWeb

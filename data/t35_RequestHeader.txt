@@ -1,0 +1,14 @@
+POST /watch/784657?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fpassport%3Fmode%3Dauth%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252Flite%252Finbox&ut=noindex&browser-info=j%3A1%3As%3A1536x864x24%3Ask%3A1.25%3Aadb%3A2%3Af%3A24.0.0.221%3Afpr%3A331856404701%3Acn%3A1%3Az%3A180%3Ai%3A20170310132847%3Aet%3A1489141728%3Aen%3Autf-8%3Av%3A783%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Aar%3A1%3Apa%3A1%3Als%3A155092419075%3Arqn%3A12%3Arn%3A969846143%3Ahid%3A592876813%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Arqnl%3A1%3Ast%3A1489141728%3Au%3A1488658405454999924 HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Referer: https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox
+Accept-Language: ru-RU
+Origin: https://passport.yandex.ru
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: mc.yandex.ru
+Content-Length: 261
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: yandexuid=1323753751488658402; i=9watCZ0XndZ9hI+MrL2gQmQkLUJywAC+B5aUe+iWdudktzdxuU4qK7ZNkxGsKlZxvKPmmudu+V+Ei9RoDPcxI3SXk0w=; yp=1489263205.szm.1_25:1536x864:1536x745; _ym_uid=1488658405454999924; _ym_isad=2; fuid01=58bb1fe43f1985ca.mchv1kTx9TEts0-0Gp_WmXaQDv9YzfRxHMjAhTjj3FWSUQEJC61ZkwpNsdz8bUlcpKF_3mbcsWNVPeDp-t2gp4jJPGbGmhsyD7VuFZi-GicCHCUYXGlhUGmo6Ch_ljdX; _ym_visorc_784657=b; yabs-sid=1970435711489140705
+

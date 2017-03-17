@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 10606
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Set-Cookie: SRCHD=AF=NOFORM; domain=.bing.com; expires=Sun, 10-Mar-2019 10:07:54 GMT; path=/,SRCHUID=V=2&GUID=22DFFC1529E5410CBAEFE7E3C6EE4571; expires=Sun, 10-Mar-2019 10:07:54 GMT; path=/,SRCHUSR=DOB=20170310; domain=.bing.com; expires=Sun, 10-Mar-2019 10:07:54 GMT; path=/,_EDGE_S=ui=ru-ru&F=1&SID=10AD50C8446168D9078F5A894507697E; path=/; httponly; domain=bing.com,_EDGE_V=1; path=/; httponly; expires=Sun, 10-Mar-2019 10:07:54 GMT; domain=bing.com,MUID=0A19AF8C7FF56CD22467A5CD7E936DBD; path=/; expires=Sun, 10-Mar-2019 10:07:54 GMT; domain=bing.com,MUIDB=0A19AF8C7FF56CD22467A5CD7E936DBD; path=/; httponly; expires=Sun, 10-Mar-2019 10:07:54 GMT
+X-UA-Compatible: IE=edge
+X-MSEdge-Ref: Ref A: 65011408ECA7488E914F9A3D5B45DC48 Ref B: AM1EDGE0520 Ref C: Fri Mar 10 02:07:54 2017 PST
+Date: Fri, 10 Mar 2017 10:07:53 GMT
+Connection: close
+

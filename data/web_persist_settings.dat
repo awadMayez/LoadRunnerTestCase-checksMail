@@ -1,0 +1,21 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2017/03/10 10:06:28
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2017/03/10 10:07:22
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2017/03/10 10:11:16
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2017/03/10 10:31:47
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2017/03/10 12:32:15
+StartRecordingIsDst_5=0
+StartRecordingGMT_6=2017/03/10 12:35:47
+StartRecordingIsDst_6=0
+StartRecordingGMT_7=2017/03/10 12:59:28
+StartRecordingIsDst_7=0
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+[Security]
+UsingPersistForAuthentication=1
+[UserHomePage]
+UserHomePage=http://yandex.ru/?clid=2101081

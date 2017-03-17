@@ -1,0 +1,11 @@
+[t120]
+FileName1=t120.gif
+URL1=https://clck.yandex.ru/click/dtype=stred/pid=2/cid=71105/path=msg.click.cancel/rnd=1489142562806/*https://mail.yandex.ru/?ncrnd=3335&uid=474076123&login=ufo-xco2017
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_120.xml
+RequestHeaderFile=t120_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t120_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 10 Mar 2017 12:42:16 GMT
+Content-Type: image/jpeg
+Content-Length: 2005
+Connection: keep-alive
+Keep-Alive: timeout=60
+Cache-Control: max-age=86400
+Last-Modified: Fri, 10 Mar 2017 12:12:00 GMT
+Timing-Allow-Origin: *
+

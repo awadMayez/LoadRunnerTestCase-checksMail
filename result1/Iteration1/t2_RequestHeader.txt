@@ -1,0 +1,12 @@
+POST /passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: ru-RU
+Accept: */*
+Connection: Keep-Alive
+Host: passport.yandex.ru
+Cookie: yandexuid=505985041489248467
+Content-Length: 100
+

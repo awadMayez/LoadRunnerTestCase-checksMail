@@ -1,0 +1,11 @@
+[t284]
+FileName1=t284.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=folders,labels
+Total=1
+RequestHeaderFile=t284_RequestHeader.txt
+RequestBodyFile=t284_RequestBody.txt
+ResponseHeaderFile=t284_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_284.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

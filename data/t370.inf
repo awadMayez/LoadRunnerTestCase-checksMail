@@ -1,0 +1,11 @@
+[t370]
+FileName1=t370_af3e1e6b81ddd716587a21e4fc576760.html
+URL1=https://yastatic.net/mail/_/af3e1e6b81ddd716587a21e4fc576760.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_370.xml
+RequestHeaderFile=t370_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t370_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

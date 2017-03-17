@@ -1,0 +1,11 @@
+[t378]
+FileName1=t378_3eb2e1cc41460d95995f834428a9acd8.html
+URL1=https://yastatic.net/mail/_/3eb2e1cc41460d95995f834428a9acd8.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_378.xml
+RequestHeaderFile=t378_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t378_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

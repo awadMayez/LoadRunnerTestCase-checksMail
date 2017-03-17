@@ -1,0 +1,13 @@
+[t76]
+FileName1=t76.gif
+URL1=https://mc.yandex.ru/watch/40081755?page-ref=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D3335%26uid%3D474076123%26login%3Dufo-xco2017%23inbox&page-url=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D3335%26uid%3D474076123%26login%3Dufo-xco2017%23message%2F161566636631916584&ut=noindex&browser-info=j%3A1%3As%3A1536x864x24%3Ask%3A1.25%3Aadb%3A2%3Af%3A24.0.0.221%3Afpr%3A331856404701%3Acn%3A1%3Aw%3A1519x745%3Az%3A180%3Ai%3A20170310133504%3Aet%3A1489142104%3Aen%3Autf-8%3Av%3A783%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Apv%3A1%3Als%3A1153974744958%3Arqn%3A13%3Arn%3A152046350%3Ahid%3A254931533%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Arqnl%3A1%3Ast%3A1489142104%3Au%3A1488658405454999924%3At%3A%D0%92%D1%85%D0%BE%D0%B4%D1%8F%D1%89%D0%B8%D0%B5%20%E2%80%94%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D0%BE%D1%87%D1%82%D0%B0
+Total=1
+RequestHeaderFile=t76_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t76_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_76.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,17 @@
+[t80]
+FileName1=t80.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=message-in-reply-to-ng
+Total=4
+RequestHeaderFile=t80_RequestHeader.txt
+RequestBodyFile=t80_RequestBody.txt
+ResponseHeaderFile=t80_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_80.xml
+FileName2=t80_8d023a2eb29b37548fec22ae4aeb8e5b.html
+URL2=https://yastatic.net/mail/_/8d023a2eb29b37548fec22ae4aeb8e5b.yate
+FileName3=t80_45b05eac4394e0c161b208537562b97b.css
+URL3=https://yastatic.net/mail/_/45b05eac4394e0c161b208537562b97b.css
+FileName4=t80_6989570545cfefe15cafc8012c0a6de1.html
+URL4=https://yastatic.net/mail/_/6989570545cfefe15cafc8012c0a6de1.js
+[ProtocolInfo]
+ProtocolId=QTWeb

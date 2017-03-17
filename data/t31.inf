@@ -1,0 +1,11 @@
+[t31]
+FileName1=t31.htm
+URL1=https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox
+Total=1
+RequestHeaderFile=t31_RequestHeader.txt
+RequestBodyFile=t31_RequestBody.txt
+ResponseHeaderFile=t31_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_31.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

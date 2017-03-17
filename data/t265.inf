@@ -1,0 +1,11 @@
+[t265]
+FileName1=t265_k-ZkQnSFz9nnZJrL95JJIOn6ndQ.png
+URL1=https://yastatic.net/mail/_/k-ZkQnSFz9nnZJrL95JJIOn6ndQ.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_265.xml
+RequestHeaderFile=t265_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t265_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

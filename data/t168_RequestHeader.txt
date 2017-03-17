@@ -1,0 +1,14 @@
+POST /watch/10102198?page-url=https%3A%2F%2Fmail.yandex.ru%2F&ut=noindex&browser-info=j%3A1%3As%3A1536x864x24%3Ask%3A1.25%3Aadb%3A2%3Af%3A24.0.0.221%3Afpr%3A331856404701%3Acn%3A1%3Aw%3A1536x745%3Az%3A180%3Ai%3A20170310153622%3Aet%3A1489149382%3Aen%3Autf-8%3Av%3A785%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Anb%3A1%3Acl%3A66%3Als%3A762358474662%3Arqn%3A9%3Arn%3A1048777849%3Ahid%3A672005724%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C10427%2C10427%2C86%2C%3Arqnl%3A1%3Ast%3A1489149382%3Au%3A1488658405454999924 HTTP/1.1
+Accept: */*
+Content-Type: application/x-www-form-urlencoded
+Referer: https://mail.yandex.ru/
+Accept-Language: ru-RU
+Origin: https://mail.yandex.ru
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: mc.yandex.ru
+Content-Length: 0
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: yandexuid=1323753751488658402; i=9watCZ0XndZ9hI+MrL2gQmQkLUJywAC+B5aUe+iWdudktzdxuU4qK7ZNkxGsKlZxvKPmmudu+V+Ei9RoDPcxI3SXk0w=; yp=1489263205.szm.1_25:1536x864:1536x745#1491741156.ygu.1#1489408360.clh.2101081#1804509247.multib.1#1496925253.ww.1; _ym_uid=1488658405454999924; _ym_isad=2; fuid01=58bb1fe43f1985ca.mchv1kTx9TEts0-0Gp_WmXaQDv9YzfRxHMjAhTjj3FWSUQEJC61ZkwpNsdz8bUlcpKF_3mbcsWNVPeDp-t2gp4jJPGbGmhsyD7VuFZi-GicCHCUYXGlhUGmo6Ch_ljdX; L=CV5nAFpcYURzVWsGZFlvX18CZgVhegZLQjccfio1BAN4eXs=.1489141986.13001.388127.665a1afc4097caf3bc587d01b76f3b8d; yandex_gid=213; yabs-sid=256516881489149365
+

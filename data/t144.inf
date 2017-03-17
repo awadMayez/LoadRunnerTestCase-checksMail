@@ -1,0 +1,11 @@
+[t144]
+FileName1=t144_arrow.png
+URL1=https://yastatic.net/mail/host-root2/4.0.0/static/promos/arrow.png
+Total=1
+ContentType=image/png
+SnapshotXmlFile=snapshot_144.xml
+RequestHeaderFile=t144_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t144_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

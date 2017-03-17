@@ -1,0 +1,8 @@
+HTTP/1.1 204 OK
+Cache-Control: no-store
+Server: Microsoft-IIS/10.0
+X-MSEdge-Ref: Ref A: AB7A11DACB3B4C2E9569FADEA2E5348D Ref B: AM1EDGE0612 Ref C: Fri Mar 10 02:07:51 2017 PST
+Set-Cookie: _EDGE_S=ui=ru-ru&F=1&SID=10AD50C8446168D9078F5A894507697E; path=/; httponly; domain=bing.com,_EDGE_V=1; path=/; httponly; expires=Sun, 10-Mar-2019 10:07:51 GMT; domain=bing.com,MUID=268060CFD3B36693014A6A8ED2C76795; path=/; expires=Sun, 10-Mar-2019 10:07:51 GMT; domain=bing.com,MUIDB=268060CFD3B36693014A6A8ED2C76795; path=/; httponly; expires=Sun, 10-Mar-2019 10:07:51 GMT
+Date: Fri, 10 Mar 2017 10:07:51 GMT
+Connection: close
+

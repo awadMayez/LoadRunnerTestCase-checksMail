@@ -1,0 +1,13 @@
+[t187]
+FileName1=t187.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=informer-news
+Total=2
+RequestHeaderFile=t187_RequestHeader.txt
+RequestBodyFile=t187_RequestBody.txt
+ResponseHeaderFile=t187_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_187.xml
+FileName2=t187_monitoring_liza.txt
+URL2=https://mail.yandex.ru/monitoring_liza.txt?uid=474076123&cid=u2709-1489149426954-81932979&login=ufo-xco2017&loc=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D1213%23inbox&cv=jane-12.10.51-&lcl=ru&cdn=default&exp=36377,0,91;40287,0,46;38717,0,84;34595,0,54;31190,0,58&node=false&lifetime=1&event=prefetch&theme=colorful&locale=ru
+[ProtocolInfo]
+ProtocolId=QTWeb

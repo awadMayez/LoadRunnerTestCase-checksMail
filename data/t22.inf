@@ -1,0 +1,13 @@
+[t22]
+FileName1=t22.htm
+URL1=https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox
+Total=2
+RequestHeaderFile=t22_RequestHeader.txt
+RequestBodyFile=t22_RequestBody.txt
+ResponseHeaderFile=t22_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_22.xml
+FileName2=t22_auth.enter.css
+URL2=https://yastatic.net/passport-frontend/0.2.59-9/public/css/auth.enter.css
+[ProtocolInfo]
+ProtocolId=QTWeb

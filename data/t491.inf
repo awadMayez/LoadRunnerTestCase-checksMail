@@ -1,0 +1,13 @@
+[t491]
+FileName1=t491.gif
+URL1=https://mc.yandex.ru/watch/16082914?page-url=https%3A%2F%2Fmail.yandex.ru%2Flite%2Fsent&ut=noindex&browser-info=j%3A1%3As%3A1536x864x24%3Ask%3A1.25%3Aadb%3A2%3Af%3A24.0.0.221%3Afpr%3A331856404701%3Acn%3A2%3Az%3A180%3Ai%3A20170310160439%3Aet%3A1489151079%3Aen%3Autf-8%3Av%3A785%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Apa%3A1%3Als%3A304057826452%3Arqn%3A22%3Arn%3A591877461%3Ahid%3A39043508%3Ads%3A%2C%2C%2C%2C%2C%2C%2C515%2C6%2C770%2C771%2C7%2C672%3Afp%3A683%3Arqnl%3A1%3Ast%3A1489151079%3Au%3A1488658405454999924
+Total=1
+RequestHeaderFile=t491_RequestHeader.txt
+RequestBodyFile=t491_RequestBody.txt
+ResponseHeaderFile=t491_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_491.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

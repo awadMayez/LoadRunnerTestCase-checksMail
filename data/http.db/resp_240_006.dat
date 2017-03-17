@@ -1,0 +1,16 @@
+1b0
+<?xml version="1.0" encoding="utf-8"?>
+<action xmlns:x="http://www.yandex.ru/xscript" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+
+<common-action>
+
+</common-action>
+<lua/>
+<handler name="do-send" gid="0" key=""><mail_send><status>ok</status><limited/><message_id>&lt;1173041489149209@web26j.yandex.ru&gt;</message_id><attachments/><timer_logic>236509</timer_logic></mail_send></handler><login>ufo-xco2017</login>
+
+<lua/>
+</action>
+
+0
+

@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 10 Mar 2017 10:33:11 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: stngs=colorful::on:on; path=/; expires=Wed, 10 Mar 2027 10:33:11 GMT; secure
+Set-Cookie: stngs=colorful::on:on; path=/; expires=Wed, 10 Mar 2027 10:33:11 GMT; secure
+Cache-Control: max-age=0, must-revalidate, proxy-revalidate, no-cache, no-store, private
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Pragma: no-cache
+Set-Cookie: stngs=colorful::true:on; path=/; expires=Wed, 10 Mar 2027 10:33:11 GMT; secure
+X-Content-Security-Policy: default-src 'none';connect-src 'self' mc.yandex.ru *.disk.yandex.net *.mail.yandex.net suggest-maps.yandex.ru *.video.yandex.net streaming.video.yandex.ru wss://push.yandex.ru:* yandex.st yastatic.net disk.yandex.ru;font-src 'none';frame-src awaps.yandex.ru awaps.yandex.net player.vimeo.com webattach.mail.yandex.net www.facebook.com yandexadexchange.net *.yandexadexchange.net yastatic.net *.disk.yandex.net *.yandex.ru;img-src 'self' data: *.gemius.pl *.tns-counter.ru maps.googleapis.com *.yandex.ru resize.yandex.net resize.rs.yandex.net *.yandex.net *.yandex.ru yadi.sk fingerprint-test.yandex-team.ru https://avatars.mds.yandex.net https://avatars.mdst.yandex.net yandex.ru view.atdmt.com ad.adriver.ru comscore.com s1.countby.com bl1.datamind.ru *.doubleclick.net secure-it.imrworldwide.com lamoda25.ru omirussia.ru amch.questionmarket.com jsre.r24-tech.com yandex.dsp.redfog.ru yandex-bidder.rutarget.ru bs.serving-sys.com eu-propulsor.sociomantic.com tns.ru yandex.st yastatic.net;media-src yandex.st yastatic.net;object-src *.yandex.ru static.video.yandex.net *.tns-counter.ru *.youtube.com yandex.st yastatic.net;script-src 'unsafe-eval' 'unsafe-inline' blob: api-maps.yandex.ru *.yandex.ru *.yandex.net yandex.st yastatic.net *.yandex.ru disk.yandex.ru;style-src 'unsafe-inline' 'unsafe-eval' yandex.st yastatic.net;report-uri https://csp.yandex.net/csp?from=mail-u2709&version={{VERSION_FULL}}&yandexuid=1323753751488658402&yandex_login=ufo.xco2017&puid=474076123&reqid=u2709-1489141991367-53008277
+X-Frame-Options: SAMEORIGIN
+x-dns-prefetch-control: off
+Strict-Transport-Security: max-age=315360000
+Content-Encoding: gzip
+

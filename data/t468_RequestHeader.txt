@@ -1,0 +1,9 @@
+GET /favicon.ico HTTP/1.1
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+Host: mail.yandex.ru
+Connection: Keep-Alive
+UA-CPU: AMD64
+Accept-Encoding: gzip, deflate
+Cookie: yandexuid=1323753751488658402; i=9watCZ0XndZ9hI+MrL2gQmQkLUJywAC+B5aUe+iWdudktzdxuU4qK7ZNkxGsKlZxvKPmmudu+V+Ei9RoDPcxI3SXk0w=; yp=1489263205.szm.1_25%3A1536x864%3A1536x745#1491741156.ygu.1#1489410081.clh.2101081#1804509247.multib.1#1496925253.ww.1#1804510920.udn.cDp1Zm8ueGNvMjAxNw%3D%3D; _ym_uid=1488658405454999924; _ym_isad=2; fuid01=58bb1fe43f1985ca.mchv1kTx9TEts0-0Gp_WmXaQDv9YzfRxHMjAhTjj3FWSUQEJC61ZkwpNsdz8bUlcpKF_3mbcsWNVPeDp-t2gp4jJPGbGmhsyD7VuFZi-GicCHCUYXGlhUGmo6Ch_ljdX; L=CV5nAFpcYURzVWsGZFJsXFcAZwRgcAJLQjccfio1BAN4eXs=.1489150920.13001.325338.37910d0b4c3f92cc4ef39824da4791d7; yandex_gid=213; Session_id=3:1489150920.5.0.1489150920800:ofRbww:4d.0|474076123.0.2|160058.733498.R4HpU8LHr99BSODh29hfGf7mYCs; sessionid2=3:1489150920.5.0.1489150920800:ofRbww:4d.1|474076123.0.2|160058.77145.rNyhpl_EwN7fSjGjrOxUnBbT6gE; yandex_login=ufo.xco2017; ni=0; stngs=colorful::true:on; msgsent=1
+

@@ -1,0 +1,11 @@
+[t32]
+FileName1=t32_watch.html
+URL1=https://mc.yandex.ru/metrika/watch.js?_=1489141727392
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_32.xml
+RequestHeaderFile=t32_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t32_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

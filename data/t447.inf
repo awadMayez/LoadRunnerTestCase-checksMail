@@ -1,0 +1,13 @@
+[t447]
+FileName1=t447.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=do-messages
+Total=2
+RequestHeaderFile=t447_RequestHeader.txt
+RequestBodyFile=t447_RequestBody.txt
+ResponseHeaderFile=t447_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_447.xml
+FileName2=t447_monitoring_liza.txt
+URL2=https://mail.yandex.ru/monitoring_liza.txt?uid=474076123&cid=u2709-1489149733595-43618213&login=ufo-xco2017&loc=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D1213%26uid%3D474076123%26login%3Dufo-xco2017%23message%2F161566636631916604&cv=jane-12.10.51-&lcl=ru&cdn=default&exp=34595,0,54;31190,0,58&node=false&lifetime=39&allTime=44&allSumTime=33&requestTime=0&selfTime=44&full=44&collectModels.0=2&requestModels.0=0&collectViews=1&generateHTML=2&html2node=1&triggerHideEvents=0&insertNodes=14&triggerEvents=13&blockname=message-body&request=0&event=BlockTimings&visibilityState=visible&show=44&browser=MSIE&afterload=true
+[ProtocolInfo]
+ProtocolId=QTWeb

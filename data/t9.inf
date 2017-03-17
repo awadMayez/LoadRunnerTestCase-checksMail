@@ -1,0 +1,15 @@
+[t9]
+FileName1=t9.html
+URL1=https://www.bing.com/AS/IEOneBox/xls.aspx
+Total=3
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=t9_RequestBody.txt
+ResponseHeaderFile=t9_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_9.xml
+FileName2=t9_Suggestions.html
+URL2=https://www.bing.com/AS/API/IEOneBox/V2/Suggestions?qry=yandex.mail.ru&cc=RU&setlang=ru&cp=14&cvid=d585a33645574ba8b91fa06bf7d115bc&ig=97394d2cb93f47d7a331dfe4b522c9ab
+FileName3=t9_IEOneBox_V2.html
+URL3=https://www.bing.com/manifest/IEOneBox_V2.appcache?setlang=ru
+[ProtocolInfo]
+ProtocolId=QTWeb

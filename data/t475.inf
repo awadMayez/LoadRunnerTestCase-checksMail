@@ -1,0 +1,13 @@
+[t475]
+FileName1=t475.htm
+URL1=https://mail.yandex.ru/lite/message/161566636631916607/new
+Total=2
+RequestHeaderFile=t475_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t475_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_475.xml
+FileName2=t475__message_lite.css
+URL2=https://yastatic.net/mail/pda2/1.35.0/pages/message/_message_lite.css
+[ProtocolInfo]
+ProtocolId=QTWeb

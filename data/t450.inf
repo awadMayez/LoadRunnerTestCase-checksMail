@@ -1,0 +1,17 @@
+[t450]
+FileName1=t450.htm
+URL1=https://passport.yandex.ru/passport?mode=auth&retpath=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox
+Total=4
+RequestHeaderFile=t450_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t450_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_450.xml
+FileName2=t450_auth.enter.css
+URL2=https://yastatic.net/passport-frontend/0.2.59-9/public/css/auth.enter.css
+FileName3=t450_jquery.min.html
+URL3=https://yastatic.net/jquery/1.9.1/jquery.min.js
+FileName4=t450_auth.enter.ru.html
+URL4=https://yastatic.net/passport-frontend/0.2.59-9/public/js/auth.enter.ru.js
+[ProtocolInfo]
+ProtocolId=QTWeb

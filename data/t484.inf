@@ -1,0 +1,13 @@
+[t484]
+FileName1=t484.gif
+URL1=https://mc.yandex.ru/clmap/16082914?page-url=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox%3Fids%3D%26executed_action%3Dmessage_send&pointer-click=rn%3A843757578%3Ax%3A35555%3Ay%3A18698%3At%3A69%3Ap%3AW%3BWW1AAAA1A&browser-info=rqnl%3A2%3Ast%3A1489151077%3Au%3A
+Total=1
+RequestHeaderFile=t484_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t484_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_484.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

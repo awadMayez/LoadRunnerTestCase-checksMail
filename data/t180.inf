@@ -1,0 +1,13 @@
+[t180]
+FileName1=t180.gif
+URL1=https://mc.yandex.ru/webvisor/784657?rn=289218354&page-url=https%3A%2F%2Fpassport.yandex.ru%2Fpassport%3Fmode%3Dauth%26from%3Dmail%26origin%3Dhostroot_ru_l_mobile_enter%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru&wmode=0&wv-type=0&wv-hit=596230488&wv-part=3&wv-check=36324&browser-info=v%3A785%3Az%3A180%3Ai%3A20170310153654%3Arqnl%3A1%3Ast%3A1489149425%3Au%3A1488658405454999924
+Total=1
+RequestHeaderFile=t180_RequestHeader.txt
+RequestBodyFile=t180_RequestBody.txt
+ResponseHeaderFile=t180_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_180.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

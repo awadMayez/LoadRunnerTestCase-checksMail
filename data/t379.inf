@@ -1,0 +1,11 @@
+[t379]
+FileName1=t379_16a6d8f13263ec8945a14774d8a55a05.html
+URL1=https://yastatic.net/mail/_/16a6d8f13263ec8945a14774d8a55a05.yate
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_379.xml
+RequestHeaderFile=t379_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t379_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

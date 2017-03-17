@@ -1,0 +1,11 @@
+[t380]
+FileName1=t380_01212c333513b029a6961f84114a53a6.css
+URL1=https://yastatic.net/mail/_/01212c333513b029a6961f84114a53a6.css
+Total=1
+ContentType=text/css
+SnapshotXmlFile=snapshot_380.xml
+RequestHeaderFile=t380_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t380_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

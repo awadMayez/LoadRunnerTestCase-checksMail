@@ -1,0 +1,11 @@
+[t411]
+FileName1=t411_60953330d04a753bae16c21e2e7ca7d1.html
+URL1=https://yastatic.net/mail/_/60953330d04a753bae16c21e2e7ca7d1.yate
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_411.xml
+RequestHeaderFile=t411_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t411_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

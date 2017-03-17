@@ -1,0 +1,11 @@
+[t233]
+FileName1=t233_monitoring_liza.txt
+URL1=https://mail.yandex.ru/monitoring_liza.txt?uid=474076123&cid=u2709-1489149426954-81932979&login=ufo-xco2017&loc=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D1213%26uid%3D474076123%26login%3Dufo-xco2017%23sent&cv=jane-12.10.51-&lcl=ru&cdn=default&exp=36377,0,91;40287,0,46;38717,0,84;34595,0,54;31190,0,58&node=false&lifetime=120&event=LongRun2&block=messages-pager-date&theme=colorful&allTime=3494&requestTime=3488&selfTime=6&perf.full=3494&perf.__parent=%5Bobject%20Object%5D&perf.collectModels.0=0&perf.requestModels.0=3488&perf.collectViews=0&perf.html2node=0&perf.triggerHideEvents=0&perf.insertNodes=0&perf.triggerEvents=0&afterload=true
+Total=1
+ContentType=text/plain
+SnapshotXmlFile=snapshot_233.xml
+RequestHeaderFile=t233_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t233_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

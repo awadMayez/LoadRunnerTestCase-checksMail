@@ -1,0 +1,11 @@
+[t488]
+FileName1=t488.gif
+URL1=https://www.tns-counter.ru/V13a****yandex_ru/ru/CP1251/tmsec=yandex_mail/?id1164569764340
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_488.xml
+RequestHeaderFile=t488_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t488_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

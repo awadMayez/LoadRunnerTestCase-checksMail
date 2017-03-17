@@ -1,0 +1,11 @@
+[t377]
+FileName1=t377_dc5f5eaae6ec5f7f1454229e170d9697.html
+URL1=https://yastatic.net/mail/_/dc5f5eaae6ec5f7f1454229e170d9697.yate
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_377.xml
+RequestHeaderFile=t377_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t377_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

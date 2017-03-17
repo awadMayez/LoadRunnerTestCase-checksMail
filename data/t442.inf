@@ -1,0 +1,15 @@
+[t442]
+FileName1=t442.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=messages
+Total=3
+RequestHeaderFile=t442_RequestHeader.txt
+RequestBodyFile=t442_RequestBody.txt
+ResponseHeaderFile=t442_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_442.xml
+FileName2=t442_monitoring_liza.txt
+URL2=https://mail.yandex.ru/monitoring_liza.txt?uid=474076123&cid=u2709-1489149733595-43618213&login=ufo-xco2017&loc=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D1213%26uid%3D474076123%26login%3Dufo-xco2017%23search%3Fscope%3Dhdr_from%26request%3Dufo.xco2017%2540yandex.ru&cv=jane-12.10.51-&lcl=ru&cdn=default&exp=34595,0,54;31190,0,58&node=false&lifetime=37&allTime=577&allSumTime=135&requestTime=440&selfTime=137&full=577&collectModels.0=6&requestModels.0=440&collectModels.1=16&requestModels.1=0&collectViews=1&generateHTML=40&html2node=28&triggerHideEvents=2&insertNodes=31&triggerEvents=11&blockname=messages&request=440&event=BlockTimings&visibilityState=visible&show=577&browser=MSIE&afterload=true
+FileName3=t442.gif
+URL3=https://clck.yandex.ru/click/dtype=PS/r=ufo.xco2017%40yandex.ru/pos=1/project=search_mail/product=WEB/reqid=1489149773370474076123/user=474076123/mid=161566636631916604/time=1405/clicktype=mail/filter=scope:hdr_from/exp=34595,31190/*https://mail.yandex.ru/?ncrnd=1213&uid=474076123&login=ufo-xco2017
+[ProtocolInfo]
+ProtocolId=QTWeb

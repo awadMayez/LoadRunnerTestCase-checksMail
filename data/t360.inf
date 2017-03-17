@@ -1,0 +1,11 @@
+[t360]
+FileName1=t360_5f6fbb111583693877bbb1d54a6959d5.html
+URL1=https://yastatic.net/mail/_/5f6fbb111583693877bbb1d54a6959d5.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_360.xml
+RequestHeaderFile=t360_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t360_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 10 Mar 2017 10:31:56 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Pragma: no-cache
+Set-Cookie: ni=0; path=/; expires=Sat, 10 Jun 2017 10:31:56 GMT;
+X-Content-Security-Policy: default-src 'none';connect-src 'self' mc.yandex.ru yastatic.net;font-src yastatic.net;frame-src 'none';img-src 'self' data: mc.yandex.ru www.tns-counter.ru *.captcha.yandex.net yastatic.net;media-src yastatic.net;object-src 'none';script-src 'self' 'unsafe-eval' 'unsafe-inline' 'nonce-48db1e6dacf6fd4ddd12b5596fe5130a' mc.yandex.ru social.yandex.ru yastatic.net;style-src 'unsafe-inline' yastatic.net;report-uri https://csp.yandex.net/csp?from=mail-hostroot&version=4.0.0-4&yandexuid=1323753751488658402&yandex_login=&puid=&reqid=iface-1489141916752-51208267
+X-Frame-Options: SAMEORIGIN
+Cache-Control: private,no-cache,no-store,must-revalidate,max-age=0
+Strict-Transport-Security: max-age=315360000
+Content-Encoding: gzip
+

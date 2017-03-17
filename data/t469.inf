@@ -1,0 +1,15 @@
+[t469]
+FileName1=t469.gif
+URL1=https://mc.yandex.ru/watch/16082914?page-url=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox%3Fncrnd%3D2021&ut=noindex&browser-info=j%3A1%3As%3A1536x864x24%3Ask%3A1.25%3Aadb%3A2%3Af%3A24.0.0.221%3Afpr%3A331856404701%3Acn%3A1%3Aw%3A1536x745%3Az%3A180%3Ai%3A20170310160241%3Aet%3A1489150962%3Aen%3Autf-8%3Av%3A785%3Ac%3A1%3Ala%3Aru-ru%3Aar%3A1%3Anb%3A1%3Acl%3A43%3Als%3A304057826452%3Arqn%3A13%3Arn%3A925210376%3Ahid%3A883930172%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C25511%2C25511%2C7%2C%3Arqnl%3A1%3Ast%3A1489150962%3Au%3A1488658405454999924
+Total=2
+RequestHeaderFile=t469_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t469_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_469.xml
+FileName2=t469_16082914.gif
+URL2=https://mc.yandex.ru/clmap/16082914?page-url=https%3A%2F%2Fmail.yandex.ru%2Flite%2Finbox%3Fncrnd%3D2021&pointer-click=rn%3A92683109%3Ax%3A48824%3Ay%3A13356%3At%3A285%3Ap%3AN%3BW1AAFA1A1A&browser-info=rqnl%3A1%3Ast%3A1489150968%3Au%3A1488658405454999924
+[ProtocolInfo]
+ProtocolId=QTWeb

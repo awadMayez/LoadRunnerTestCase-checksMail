@@ -1,0 +1,11 @@
+[t407]
+FileName1=t407_monitoring_liza.txt
+URL1=https://mail.yandex.ru/monitoring_liza.txt?uid=474076123&cid=u2709-1489149733595-43618213&login=ufo-xco2017&loc=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D1213%26uid%3D474076123%26login%3Dufo-xco2017%23inbox&cv=jane-12.10.51-&lcl=ru&cdn=default&exp=34595,0,54;31190,0,58&node=false&lifetime=1&event=LoadingTime&inline-icons=true&handlers=0.2580&prepare=0.0770&static-load=0.4640&static-run=0.3270&parse-prefetch=0.0080&pageinit=0.0210&first-draw=0.4590&trigger-init=0.0580&regionId=213&theme=colorful&isRegToday=false&timeout=1.5840&tm.connectEnd=1489149735237&tm.connectStart=1489149735237&tm.domComplete=1489149735663&tm.domContentLoadedEventEnd=1489149735625&tm.domContentLoadedEventStart=1489149735625&tm.domInteractive=1489149735625&tm.domLoading=1489149735421&tm.domainLookupEnd=1489149735237&tm.domainLookupStart=1489149735237&tm.fetchStart=1489149735237&tm.loadEventEnd=1489149735664&tm.loadEventStart=1489149735664&tm.msFirstPaint=1489149735531&tm.navigationStart=1489149734829&tm.redirectEnd=0&tm.redirectStart=0&tm.requestStart=1489149735415&tm.responseEnd=1489149736112&tm.responseStart=1489149735421&tm.unloadEventEnd=1489149734830&tm.unloadEventStart=1489149734829&nav.redirectCount=0&nav.type=1&nav.TYPE_BACK_FORWARD=2&nav.TYPE_NAVIGATE=0&nav.TYPE_RELOAD=1&nav.TYPE_RESERVED=255&afterload=true
+Total=1
+ContentType=text/plain
+SnapshotXmlFile=snapshot_407.xml
+RequestHeaderFile=t407_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t407_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,22 @@
+[
+    {
+        "transactionName": "start_page",
+        "rawStartTime": 1489248466921,
+        "rawEndTime": 1489248468973
+    },
+    {
+        "transactionName": "log_in",
+        "rawStartTime": 1489248468980,
+        "rawEndTime": 1489248469614
+    },
+    {
+        "transactionName": "check_messages",
+        "rawStartTime": 1489248469628,
+        "rawEndTime": 1489248469896
+    },
+    {
+        "transactionName": "reply_for_message",
+        "rawStartTime": 1489248469914,
+        "rawEndTime": 1489248471193
+    }
+]

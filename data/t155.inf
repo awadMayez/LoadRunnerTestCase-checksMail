@@ -1,0 +1,11 @@
+[t155]
+FileName1=t155_dbc97aa570902fd48b628d633e219676.html
+URL1=https://yastatic.net/mail/neo2/_/dbc97aa570902fd48b628d633e219676.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_155.xml
+RequestHeaderFile=t155_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t155_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

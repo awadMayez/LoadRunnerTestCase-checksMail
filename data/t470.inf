@@ -1,0 +1,11 @@
+[t470]
+FileName1=t470.htm
+URL1=https://mail.yandex.ru/lite/inbox
+Total=1
+RequestHeaderFile=t470_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t470_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_470.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

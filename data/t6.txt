@@ -1,0 +1,8 @@
+email=awadmayez@gmail.com
+displayEmail=awadmayez@gmail.com
+accountType=GOOGLE
+padding=........................................................................................................................................................................................................................................................
+firstname=Mayez
+lastname=Awad
+services=70373107306496
+allServices=android, chromiumsync, cl, cloudprint, doritos, esmobile, friendview, googleme, hist, lso, mail, lh2, sj, talk, webupdates, youtube

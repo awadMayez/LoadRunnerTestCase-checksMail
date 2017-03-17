@@ -1,0 +1,13 @@
+[t72]
+FileName1=t72.txt
+URL1=https://mail.yandex.ru/u2709/api/action-log.jsx
+Total=2
+RequestHeaderFile=t72_RequestHeader.txt
+RequestBodyFile=t72_RequestBody.txt
+ResponseHeaderFile=t72_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_72.xml
+FileName2=t72.gif
+URL2=https://clck.yandex.ru/click/dtype=stred/pid=2/cid=71105/path=msg.click.cancel/rnd=1489142875944/*https://mail.yandex.ru/?ncrnd=3335&uid=474076123&login=ufo-xco2017
+[ProtocolInfo]
+ProtocolId=QTWeb

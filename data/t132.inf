@@ -1,0 +1,11 @@
+[t132]
+FileName1=t132_monitoring_liza.txt
+URL1=https://mail.yandex.ru/monitoring_liza.txt?uid=474076123&cid=u2709-1489141991367-53008277&login=ufo-xco2017&loc=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D3335%26uid%3D474076123%26login%3Dufo-xco2017%23sent&cv=jane-12.10.51-&lcl=ru&cdn=default&exp=40288,0,42;38719,0,7;25467,0,75;34595,0,54;31190,0,58&node=false&lifetime=161&allTime=46&allSumTime=44&requestTime=0&selfTime=46&full=46&collectModels.0=4&requestModels.0=0&collectViews=1&generateHTML=0&html2node=1&triggerHideEvents=12&insertNodes=17&triggerEvents=9&blockname=messages&request=0&event=BlockTimings&visibilityState=visible&show=46&browser=MSIE&afterload=true
+Total=1
+ContentType=text/plain
+SnapshotXmlFile=snapshot_132.xml
+RequestHeaderFile=t132_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t132_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

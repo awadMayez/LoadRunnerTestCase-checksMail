@@ -1,0 +1,11 @@
+[t248]
+FileName1=t248.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=messages
+Total=1
+RequestHeaderFile=t248_RequestHeader.txt
+RequestBodyFile=t248_RequestBody.txt
+ResponseHeaderFile=t248_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_248.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

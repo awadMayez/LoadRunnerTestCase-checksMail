@@ -1,0 +1,13 @@
+[t63]
+FileName1=t63.txt
+URL1=https://mail.yandex.ru/u2709/api/action-log.jsx
+Total=2
+RequestHeaderFile=t63_RequestHeader.txt
+RequestBodyFile=t63_RequestBody.txt
+ResponseHeaderFile=t63_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_63.xml
+FileName2=t63_islands-retina-50.png
+URL2=https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-retina-50
+[ProtocolInfo]
+ProtocolId=QTWeb

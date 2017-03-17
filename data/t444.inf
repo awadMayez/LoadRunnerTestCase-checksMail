@@ -1,0 +1,11 @@
+[t444]
+FileName1=t444.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=message-body,message-nearest
+Total=1
+RequestHeaderFile=t444_RequestHeader.txt
+RequestBodyFile=t444_RequestBody.txt
+ResponseHeaderFile=t444_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_444.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,19 @@
+# The Prefetch file for 'daria'
+
+# javascript
+https://yastatic.net/jquery/1.11.0/jquery.min.js
+https://yastatic.net/mail/neo2/_/6fa08450970dc41f426954ea37862f5a.js
+https://yastatic.net/mail/neo2/_/dbc97aa570902fd48b628d633e219676.js
+https://yastatic.net/mail/neo2/_/def0d1a263899d118d6115e2dd012ccd.js
+
+# stylesheets
+# colorful theme
+https://yastatic.net/mail/neo2/_/612d05c9e12f6d25444681a36a4660dc.css
+https://yastatic.net/mail/neo2/_/71ae34aa1251fb8226b19d3daae1497e.css
+https://yastatic.net/mail/neo2/_/17928925355f173a57f88cd12c7f49cb.css
+# weather theme
+https://yastatic.net/mail/neo2/_/9c355642f34743268d4e8fd2d49bf7e4.css
+https://yastatic.net/mail/neo2/_/c3df57abddf221efa15bcc250ec814df.css
+
+# yate
+https://yastatic.net/mail/neo2/_/892a2d89819f865b14ae84387f5cc35b.yate

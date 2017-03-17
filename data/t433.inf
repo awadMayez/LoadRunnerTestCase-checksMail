@@ -1,0 +1,13 @@
+[t433]
+FileName1=t433.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=email-info
+Total=2
+RequestHeaderFile=t433_RequestHeader.txt
+RequestBodyFile=t433_RequestBody.txt
+ResponseHeaderFile=t433_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_433.xml
+FileName2=t433_monitoring_liza.txt
+URL2=https://mail.yandex.ru/monitoring_liza.txt?uid=474076123&cid=u2709-1489149733595-43618213&login=ufo-xco2017&loc=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D1213%26uid%3D474076123%26login%3Dufo-xco2017%23message%2F161566636631916600&cv=jane-12.10.51-&lcl=ru&cdn=default&exp=34595,0,54;31190,0,58&node=false&lifetime=24&allTime=73&allSumTime=48&requestTime=0&selfTime=73&full=73&collectModels.0=3&requestModels.0=0&collectViews=1&generateHTML=4&html2node=1&triggerHideEvents=1&insertNodes=11&triggerEvents=27&blockname=message-body&request=0&event=BlockTimings&visibilityState=visible&show=73&browser=MSIE&afterload=true
+[ProtocolInfo]
+ProtocolId=QTWeb

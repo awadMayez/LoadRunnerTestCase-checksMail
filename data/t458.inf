@@ -1,0 +1,13 @@
+[t458]
+FileName1=t458.htm
+URL1=https://yandex.ru/?clid=2101081
+Total=2
+RequestHeaderFile=t458_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t458_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_458.xml
+FileName2=t458_ya_favicon_ru.png
+URL2=https://yastatic.net/morda-logo/i/ya_favicon_ru.png
+[ProtocolInfo]
+ProtocolId=QTWeb

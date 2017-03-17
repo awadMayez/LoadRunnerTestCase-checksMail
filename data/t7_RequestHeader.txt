@@ -1,0 +1,9 @@
+GET https://www.msn.com/spartan/ntp?locale=ru&market=RU&enableregulatorypsm=0 HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Accept-Language: ru-RU
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; ServiceUI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+Accept-Encoding: gzip, deflate
+Cookie: lt=EwAoA6AEAAAUIYkES8vB1KbTylyZggAXsTUONUgAAX8tjV+/0yF8V6+6ETS1bKnFyy2wDozPTpxBwfAzgULo6z6BuFUta1le827/Ty1UuqzT+OVOf6VQWoVi5qFSp6uwHzdJ2ZFKjBGpkFzkfhbQxg6d/xidwah0NCeuo0skLb5+IqbZlMNokDpinlnor+n51OpwY8YOJjPdXZ+Y5fogWK+b0ZXYSoA8Y11BqwnyRN5hBXJZ0BNWsw8eS3skT4CGppWTB4DG7/Y1CN+fzImIk3MrjgcX9de6vv9wwN1jYbllPD2HvJc0JAxXWi6AwB2lnBu+ZlWjYDuyazXRU7tSmJp4RFsnBAWz59S8NqznMOyGAbbdwB2IcWL4NDM6WAADZgAACGPrpHB0prhP+AFl7CZ+8VV/O9MYacPu0RaZ44CGNyWoDpeXKsHaZynX5tDkpl+SPi4kH03V0xSXLWeH8SxBk/Y9iE/pMetmp49zJAuPyrJ43qdRXhO9+RvdJjtXyywXAv+b9OpKGHVMO8ij0zMHlqrwuTJCb8R3hLvzH+B1fvfyyGJ1EW4fa3c9Zyh+Wu+6jYmZmrIEcp4MbLlS3mIW4E2bnzN5PfLgAs4eChdAmaGZOrOZbozvsV2L+plYruu/xC5GwzfR8wpQ0R7kF9u80IntkZ91H0Lwo7Pmdo5acIURG91UBREfsmA44b1iG0QfSraA4/l9yigFT5hQiO6Dw/k5U1pAHXjfnQ3Vp7PWxO61Qez7RaDn6oC+4nQ0TuYRimrBz6gL6nWxd2dMeNBB3NBNkHWjYW9BqYenoe8obgC3wuErebwGSeuk5MQ1/Rxnw0BGIUzfHBjDFSiq6VXS8dNlivbQhnv2pqs/ceIlZeIfAcy8Y5t9QeRn6pY7443vePsGctwpoYsy4hykSezdVda8zTQsqwhFqMd2VBS1X67mR0f22WFK9q93a11h8R2JcRL/szcH+dcdLrUMueeMKsrHreBfptwNdYsAF/alsHvGR2ZeyLxQFyP0eXwOCyj1c7rnC87hHeac0gg+bemfOKLG0U1APw6Z5uxgLm7KpEeyHzAmAg==
+Host: www.msn.com
+Connection: Close
+

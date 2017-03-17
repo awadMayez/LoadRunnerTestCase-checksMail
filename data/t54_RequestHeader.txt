@@ -1,0 +1,14 @@
+POST /u2709/api/models.jsx?_m=filters HTTP/1.1
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Referer: https://mail.yandex.ru/
+Accept-Language: ru-RU
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Host: mail.yandex.ru
+Content-Length: 377
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: yandexuid=1323753751488658402; i=9watCZ0XndZ9hI+MrL2gQmQkLUJywAC+B5aUe+iWdudktzdxuU4qK7ZNkxGsKlZxvKPmmudu+V+Ei9RoDPcxI3SXk0w=; yp=1489263205.szm.1_25%3A1536x864%3A1536x745#1804501986.udn.cDp1Zm8ueGNvMjAxNw%3D%3D; _ym_uid=1488658405454999924; _ym_isad=2; fuid01=58bb1fe43f1985ca.mchv1kTx9TEts0-0Gp_WmXaQDv9YzfRxHMjAhTjj3FWSUQEJC61ZkwpNsdz8bUlcpKF_3mbcsWNVPeDp-t2gp4jJPGbGmhsyD7VuFZi-GicCHCUYXGlhUGmo6Ch_ljdX; _ym_visorc_784657=b; Session_id=3:1489141986.5.0.1489141986487:ofRbww:87.0|474076123.0.2|160052.272182.AshO8NcaziBrwXw8qoLuJvng49I; sessionid2=3:1489141986.5.0.1489141986487:ofRbww:87.1|474076123.0.2|160052.452036.n1PasyL2yhcqr_opEdnSdeNzwvY; ys=udn.cDp1Zm8ueGNvMjAxNw%3D%3D; L=CV5nAFpcYURzVWsGZFlvX18CZgVhegZLQjccfio1BAN4eXs=.1489141986.13001.388127.665a1afc4097caf3bc587d01b76f3b8d; yandex_login=ufo.xco2017; ni=0; stngs=colorful::true:on
+

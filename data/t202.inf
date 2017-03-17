@@ -1,0 +1,13 @@
+[t202]
+FileName1=t202.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=do-journal-log
+Total=2
+RequestHeaderFile=t202_RequestHeader.txt
+RequestBodyFile=t202_RequestBody.txt
+ResponseHeaderFile=t202_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_202.xml
+FileName2=t202_islands-retina-50.png
+URL2=https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-retina-50
+[ProtocolInfo]
+ProtocolId=QTWeb

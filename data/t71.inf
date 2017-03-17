@@ -1,0 +1,11 @@
+[t71]
+FileName1=t71.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=do-journal-log
+Total=1
+RequestHeaderFile=t71_RequestHeader.txt
+RequestBodyFile=t71_RequestBody.txt
+ResponseHeaderFile=t71_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_71.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

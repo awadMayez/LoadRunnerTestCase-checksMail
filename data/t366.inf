@@ -1,0 +1,11 @@
+[t366]
+FileName1=t366_jquery.min.html
+URL1=https://yastatic.net/jquery/1.11.0/jquery.min.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_366.xml
+RequestHeaderFile=t366_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t366_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

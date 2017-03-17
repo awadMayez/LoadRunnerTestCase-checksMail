@@ -1,0 +1,13 @@
+[t7]
+FileName1=t7.htm
+URL1=https://www.msn.com/spartan/ntp?locale=ru&market=RU&enableregulatorypsm=0
+Total=2
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t7_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_7.xml
+FileName2=t7_ntp.htm
+URL2=https://www.msn.com/spartan/ntp?locale=ru&market=RU&enableregulatorypsm=0
+[ProtocolInfo]
+ProtocolId=QTWeb

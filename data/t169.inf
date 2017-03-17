@@ -1,0 +1,13 @@
+[t169]
+FileName1=t169_iecompatviewlist.xml
+URL1=https://iecvlist.microsoft.com/IE11/1426178821/iecompatviewlist.xml
+Total=2
+ContentType=text/xml
+SnapshotXmlFile=snapshot_169.xml
+RequestHeaderFile=t169_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t169_ResponseHeader.txt
+FileName2=t169_10102198.gif
+URL2=https://mc.yandex.ru/clmap/10102198?page-url=https%3A%2F%2Fmail.yandex.ru%2F&pointer-click=rn%3A886418071%3Ax%3A28774%3Ay%3A41368%3At%3A417%3Ap%3A%3FWA3FAAA&browser-info=rqnl%3A1%3Ast%3A1489149409%3Au%3A1488658405454999924
+[ProtocolInfo]
+ProtocolId=QTWeb

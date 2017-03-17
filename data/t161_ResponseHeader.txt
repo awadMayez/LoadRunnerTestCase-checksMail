@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: nginx/1.9.4
+Date: Fri, 10 Mar 2017 12:36:04 GMT
+Content-Type: application/x-javascript
+Last-Modified: Mon, 26 Jun 2000 16:00:00 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+ETag: W/"39577e00-2569a"
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+Strict-Transport-Security: max-age=43200000; includeSubDomains;
+Cache-Control: public
+Access-Control-Allow-Origin: *
+Timing-Allow-Origin: *
+Content-Encoding: gzip
+

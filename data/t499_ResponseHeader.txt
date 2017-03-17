@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Fri, 10 Mar 2017 13:04:39 GMT
+Content-Type: application/x-javascript; charset=utf-8
+Content-Length: 47145
+Connection: keep-alive
+P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+Last-Modified: Fri, 10 Mar 2017 13:04:39 GMT
+Expires: Fri, 10 Mar 2017 13:04:39 GMT
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Pragma: no-cache
+Set-Cookie: yabs-vdrf=A0; domain=an.yandex.ru; path=/; expires=Fri, 17-Mar-2017 13:04:38 GMT
+Strict-Transport-Security: max-age=31536000
+

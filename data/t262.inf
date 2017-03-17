@@ -1,0 +1,11 @@
+[t262]
+FileName1=t262_71b206f4c6f9bb260e83fe96a83b44ee.html
+URL1=https://yastatic.net/mail/_/71b206f4c6f9bb260e83fe96a83b44ee.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_262.xml
+RequestHeaderFile=t262_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t262_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

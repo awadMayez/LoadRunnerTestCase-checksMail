@@ -1,0 +1,11 @@
+[t206]
+FileName1=t206.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=translate-langs
+Total=1
+RequestHeaderFile=t206_RequestHeader.txt
+RequestBodyFile=t206_RequestBody.txt
+ResponseHeaderFile=t206_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_206.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

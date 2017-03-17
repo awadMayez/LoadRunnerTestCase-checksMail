@@ -1,0 +1,11 @@
+[t277]
+FileName1=t277.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=folders,labels
+Total=1
+RequestHeaderFile=t277_RequestHeader.txt
+RequestBodyFile=t277_RequestBody.txt
+ResponseHeaderFile=t277_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_277.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

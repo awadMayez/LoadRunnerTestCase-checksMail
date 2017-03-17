@@ -1,0 +1,11 @@
+[t399]
+FileName1=t399_4f115d083a2167f4334a84d88823fc5d.html
+URL1=https://yastatic.net/mail/_/4f115d083a2167f4334a84d88823fc5d.yate
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_399.xml
+RequestHeaderFile=t399_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t399_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

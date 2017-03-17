@@ -1,0 +1,17 @@
+[t15]
+FileName1=t15.gif
+URL1=https://mc.yandex.ru/watch/784657?page-ref=https%3A%2F%2Fpassport.yandex.ru%2Fpassport%3Fmode%3Dauth%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252Flite%252Finbox&page-url=goal%3A%2F%2Fpassport.yandex.ru%2Fone_domik_1_2_showDomik&ut=noindex&browser-info=j%3A1%3As%3A1536x864x24%3Ask%3A1.25%3Af%3A24.0.0.221%3Afpr%3A331856404701%3Acn%3A1%3Aw%3A1536x745%3Az%3A180%3Ai%3A20170310131146%3Aet%3A1489140707%3Aen%3Autf-8%3Av%3A783%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Aar%3A1%3Als%3A155092419075%3Arqn%3A3%3Arn%3A523635578%3Ahid%3A423266587%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Arqnl%3A1%3Ast%3A1489140707%3Au%3A1488658405454999924%3At%3A%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F
+Total=3
+RequestHeaderFile=t15_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t15_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_15.xml
+FileName2=t15_784657.gif
+URL2=https://mc.yandex.ru/clmap/784657?page-url=https%3A%2F%2Fpassport.yandex.ru%2Fpassport%3Fmode%3Dauth%26retpath%3Dhttps%253A%252F%252Fmail.yandex.ru%252Flite%252Finbox&pointer-click=rn%3A427909880%3Ax%3A48924%3Ay%3A49158%3At%3A33%3Ap%3APAFA1AA2AA&browser-info=rqnl%3A1%3Ast%3A1489140710%3Au%3A1488658405454999924
+FileName3=t15_favicon_islands.ico
+URL3=https://yastatic.net/morda-logo/i/favicon_islands.ico
+[ProtocolInfo]
+ProtocolId=QTWeb

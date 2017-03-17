@@ -1,0 +1,17 @@
+[t74]
+FileName1=t74.gif
+URL1=https://mc.yandex.ru/watch/40081755?page-ref=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D3335%26uid%3D474076123%26login%3Dufo-xco2017%23message%2F161566636631916584&page-url=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D3335%26uid%3D474076123%26login%3Dufo-xco2017%23inbox&ut=noindex&browser-info=j%3A1%3As%3A1536x864x24%3Ask%3A1.25%3Aadb%3A2%3Af%3A24.0.0.221%3Afpr%3A331856404701%3Acn%3A1%3Aw%3A1519x745%3Az%3A180%3Ai%3A20170310133402%3Aet%3A1489142042%3Aen%3Autf-8%3Av%3A783%3Ac%3A1%3Ala%3Aru-ru%3Awh%3A1%3Apv%3A1%3Als%3A1153974744958%3Arqn%3A11%3Arn%3A112975197%3Ahid%3A254931533%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%2C%3Arqnl%3A1%3Ast%3A1489142042%3Au%3A1488658405454999924%3At%3A%D0%9F%D0%B8%D1%81%D1%8C%D0%BC%D0%BE%20%C2%ABtest%C2%BB%20%E2%80%94%20xcom%20ufo%20%E2%80%94%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D0%BE%D1%87%D1%82%D0%B0
+Total=3
+RequestHeaderFile=t74_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t74_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_74.xml
+FileName2=t74.gif
+URL2=https://clck.yandex.ru/click/dtype=stred/pid=2/cid=71105/path=msg.click.cancel/rnd=1489142386807/*https://mail.yandex.ru/?ncrnd=3335&uid=474076123&login=ufo-xco2017
+FileName3=t74_monitoring_liza.txt
+URL3=https://mail.yandex.ru/monitoring_liza.txt?uid=474076123&cid=u2709-1489141991367-53008277&login=ufo-xco2017&loc=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D3335%26uid%3D474076123%26login%3Dufo-xco2017%23inbox&cv=jane-12.10.51-&lcl=ru&cdn=default&exp=40288,0,42;38719,0,7;25467,0,75;34595,0,54;31190,0,58&node=false&lifetime=48&allTime=46&allSumTime=45&requestTime=0&selfTime=46&full=46&collectModels.0=4&requestModels.0=0&collectViews=1&generateHTML=1&html2node=1&triggerHideEvents=17&insertNodes=14&triggerEvents=7&blockname=messages&request=0&event=BlockTimings&visibilityState=visible&show=46&browser=MSIE&afterload=true
+[ProtocolInfo]
+ProtocolId=QTWeb

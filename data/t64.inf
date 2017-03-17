@@ -1,0 +1,13 @@
+[t64]
+FileName1=t64.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=do-journal-log
+Total=2
+RequestHeaderFile=t64_RequestHeader.txt
+RequestBodyFile=t64_RequestBody.txt
+ResponseHeaderFile=t64_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_64.xml
+FileName2=t64_monitoring_liza.txt
+URL2=https://mail.yandex.ru/monitoring_liza.txt?uid=474076123&cid=u2709-1489141991367-53008277&login=ufo-xco2017&loc=https%3A%2F%2Fmail.yandex.ru%2F%3Fncrnd%3D3335%26uid%3D474076123%26login%3Dufo-xco2017%23message%2F161566636631916584&cv=jane-12.10.51-&lcl=ru&cdn=default&exp=40288,0,42;38719,0,7;25467,0,75;34595,0,54;31190,0,58&node=false&lifetime=29&allTime=66&allSumTime=9&requestTime=0&selfTime=66&full=66&collectModels.0=0&requestModels.0=0&collectViews=0&generateHTML=0&html2node=1&triggerHideEvents=0&insertNodes=2&triggerEvents=6&blockname=message-body&request=124&event=BlockTimings&visibilityState=visible&show=298&browser=MSIE&afterload=true
+[ProtocolInfo]
+ProtocolId=QTWeb

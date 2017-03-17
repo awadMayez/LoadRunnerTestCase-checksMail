@@ -1,0 +1,13 @@
+[t65]
+FileName1=t65.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=email-info
+Total=2
+RequestHeaderFile=t65_RequestHeader.txt
+RequestBodyFile=t65_RequestBody.txt
+ResponseHeaderFile=t65_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_65.xml
+FileName2=t65_UX.png
+URL2=https://yastatic.net/mail/monograms/monograms/v2//double/UX.png
+[ProtocolInfo]
+ProtocolId=QTWeb

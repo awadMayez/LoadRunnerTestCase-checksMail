@@ -1,0 +1,11 @@
+[t502]
+FileName1=t502.htm
+URL1=https://mail.yandex.ru/lite/inbox
+Total=1
+RequestHeaderFile=t502_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t502_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_502.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Fri, 10 Mar 2017 12:40:19 GMT
+Content-Type: image/gif
+Content-Length: 43
+Connection: keep-alive
+P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+Last-Modified: Fri, 10 Mar 2017 12:40:19 GMT
+Expires: Fri, 10 Mar 2017 12:40:19 GMT
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Pragma: no-cache
+Access-Control-Allow-Origin: https://mail.yandex.ru
+Access-Control-Allow-Credentials: true
+Strict-Transport-Security: max-age=31536000
+

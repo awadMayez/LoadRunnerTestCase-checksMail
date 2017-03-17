@@ -1,0 +1,15 @@
+[t186]
+FileName1=t186.html
+URL1=https://mail.yandex.ru/u2709/api/models.jsx?_m=collectors
+Total=3
+RequestHeaderFile=t186_RequestHeader.txt
+RequestBodyFile=t186_RequestBody.txt
+ResponseHeaderFile=t186_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_186.xml
+FileName2=t186_ebff739f4b3ed40956424881f1a216dd.css
+URL2=https://yastatic.net/mail/_/ebff739f4b3ed40956424881f1a216dd.css
+FileName3=t186_4f115d083a2167f4334a84d88823fc5d.html
+URL3=https://yastatic.net/mail/_/4f115d083a2167f4334a84d88823fc5d.yate
+[ProtocolInfo]
+ProtocolId=QTWeb

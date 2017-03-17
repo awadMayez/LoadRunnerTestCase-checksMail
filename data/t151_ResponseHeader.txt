@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 10 Mar 2017 12:36:03 GMT
+Content-Type: text/plain
+Last-Modified: Wed, 12 Oct 2016 21:44:56 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+ETag: W/"57feaed8-30b"
+X-Frame-Options: SAMEORIGIN
+x-dns-prefetch-control: off
+Strict-Transport-Security: max-age=315360000
+Content-Encoding: gzip
+

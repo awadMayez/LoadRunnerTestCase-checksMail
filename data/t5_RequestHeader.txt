@@ -1,0 +1,10 @@
+GET /region/ HTTP/1.1
+Host: tune.yandex.ru
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+Provider: yandex
+Accept-Encoding: gzip, deflate, sdch, br
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: yandexuid=6916306631488205099; i=Crxhi+hz50DEXuotj/HjWcAZM1hi23IX2iDNWmBo/9MgnLjpi4ZDafNxlIPewLwNeeuAgziUCU5XkzrCQRglwWjFCG4=; yandex_gid=213; _ym_uid=1488835079697642866; zm=m-white_bender.flex.webp.css-https%3Awww_LJkBZj-SC4o9-2VkkW3G99QxsX8%3Al%7Cm-white_bender.flex.webp.css-https-www%3Awww_LJkBZj-SC4o9-2VkkW3G99QxsX8%3Al; Session_id=3:1488838231.5.0.1488838231712:ofRbww:84.0|474076123.0.2|159884.618192.QG1Bcw4sj8SAHVjRSMmm6b8LIPQ; sessionid2=3:1488838231.5.0.1488838231712:ofRbww:84.1|474076123.0.2|159884.678209.yG3hDnmNk-yRMYo7w9mavMAV6Jw; yp=1804197445.multib.1#1504603079.szm.1_25%3A1536x864%3A1536x734#1496613446.ww.1#1491427076.ygu.1#1804198231.udn.cDp1Zm8ueGNvMjAxNw%3D%3D; L=Qm16UQFdeWBcAAR7d1dDc1RdU1ZVQXNeOAlfQisbLUNGYA4=.1488838231.12995.37591.d00ac2c7f106c472e982ee973a60b446; yandex_login=ufo.xco2017; _ym_isad=1
+

@@ -1,0 +1,10 @@
+GET https://www.bing.com/AS/API/IEOneBox/V2/Init?setlang=ru HTTP/1.1
+Accept: */*
+Referer: https://www.bing.com/
+Accept-Language: ru-RU
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; ServiceUI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+Accept-Encoding: gzip, deflate
+Cookie: 10-Mar-2019 10:07:52 GMT; 10-Mar-2019 10:07:52 GMT; 10-Mar-2019 10:07:52 GMT; _SS=SID=10AD50C8446168D9078F5A894507697E&CPID=1489140472547&AC=0&CPH=9dbdd659; _EDGE_S=ui=ru-ru&F=1&SID=10AD50C8446168D9078F5A894507697E
+Host: www.bing.com
+Connection: Close
+

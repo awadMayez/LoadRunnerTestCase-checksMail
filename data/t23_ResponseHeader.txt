@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Fri, 10 Mar 2017 10:28:33 GMT
+Content-Type: application/x-javascript
+Content-Length: 27202
+Connection: keep-alive
+P3P: CP="NOI DEVa TAIa OUR BUS UNI STA"
+Last-Modified: Tue, 07 Mar 2017 09:40:29 GMT
+Content-Encoding: gzip
+Expires: Fri, 10 Mar 2017 11:28:33 GMT
+Strict-Transport-Security: max-age=31536000
+

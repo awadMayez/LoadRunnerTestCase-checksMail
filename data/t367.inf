@@ -1,0 +1,11 @@
+[t367]
+FileName1=t367_4e4809856dd1f503dda6ba94423bad55.html
+URL1=https://yastatic.net/mail/_/4e4809856dd1f503dda6ba94423bad55.js
+Total=1
+ContentType=application/x-javascript
+SnapshotXmlFile=snapshot_367.xml
+RequestHeaderFile=t367_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t367_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

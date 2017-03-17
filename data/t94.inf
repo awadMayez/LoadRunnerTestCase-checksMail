@@ -1,0 +1,11 @@
+[t94]
+FileName1=t94.gif
+URL1=https://clck.yandex.ru/click/dtype=stred/pid=2/cid=71105/path=msg.click.cancel/rnd=1489142293874/*https://mail.yandex.ru/?ncrnd=3335&uid=474076123&login=ufo-xco2017
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_94.xml
+RequestHeaderFile=t94_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t94_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
